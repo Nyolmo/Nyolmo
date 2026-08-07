@@ -85,7 +85,7 @@
 ### 📌 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/Nyolmo/subtrack-api">
+  <a href="[https://github.com/Nyolmo/subtrack-api](https://github.com/Nyolmo/subtrack-api.git)">
     <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Nyolmo&repo=subtrack-api&theme=radical&hide_border=true" />
   </a>
 </p>
